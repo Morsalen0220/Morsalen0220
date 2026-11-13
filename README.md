@@ -14,7 +14,6 @@
 
 - 🔭 **Currently Building:** Desktop screen recording suites (`ScreenRecorderPro`), local bilingual AI speech/subtitle pipelines, and automated Telegram commerce bots.
 - 🌱 **Focus Areas:** Full-Stack Web & Mobile Development, Local AI Infrastructure (Whisper, NLLB, Ollama), Document Engineering, and Cloud Deployment.
-- 🏢 **Ventures:** Managing **Nur Digital Agency** & **2NUR.TECH** — delivering custom software, document automation, and web solutions.
 - 📍 **Location:** Dinajpur, Bangladesh
 - ⚡ **Workflow:** Linux & Windows power user; obsessed with clean automation and high-performance tooling.
 
