@@ -1,92 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Morsalen%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Architect%20%7C%20Tech%20Entrepreneur&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Morsalen%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Architect&descAlignY=60&descSize=16" width="100%" alt="Morsalen Islam header banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Apps+%26+Web+Systems;Designing+Local+AI+%26+Media+Processing+Pipelines;Automating+Workflows+with+Bots+%26+Custom+Scripts;Founder+%40+Nur+Digital+Agency+%26+2NUR.TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Apps+%26+Web+Systems;Designing+Local+AI+%26+Media+Processing+Pipelines;Automating+Workflows+with+Bots+%26+Custom+Scripts;Founder+%40+Nur+Digital+Agency+%26+2NUR.TECH" alt="Animated typing text" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 **Currently Building:** Desktop screen recording suites (`ScreenRecorderPro`), local bilingual AI speech/subtitle pipelines, and automated Telegram commerce bots.
-- 🌱 **Focus Areas:** Full-Stack Web & Mobile Development, Local AI Infrastructure (Whisper, NLLB, Ollama), Document Engineering, and Cloud Deployment.
-- 🏢 **Ventures:** Managing **Nur Digital Agency** & **2NUR.TECH** — delivering custom software, document automation, and web solutions.
-- 📍 **Location:** Dinajpur, Bangladesh
-- ⚡ **Workflow:** Linux & Windows power user; obsessed with clean automation and high-performance tooling.
+Ami **Morsalen Islam**, Dinajpur, Bangladesh theke kaj kori. Ami full-stack web ar mobile app, local AI pipeline, document automation ar bot-based commerce system niye kaj kori. Ami **Nur Digital Agency** ar **2NUR.TECH** er founder.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-**Frameworks, GUI & Media**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-</p>
-
-**Cloud, Databases & Automation**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+- 🔭 **Currently building:** Desktop screen recorder (`ScreenRecorderPro`), offline bilingual AI subtitle pipeline, ar Telegram commerce bot.
+- 🌱 **Focus:** Full-stack web & mobile, local AI (Whisper, NLLB, Ollama), document engineering, cloud deployment.
+- ⚡ **Workflow:** Linux & Windows dual use; automation ar high-performance tooling e interested.
+- 📫 **Open for:** Freelance projects, custom software, automation & web development.
 
 ---
 
-### 🚀 Highlighted Projects
+## 🛠️ Core Stack
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **ScreenRecorderPro** | Hardware-accelerated (NVENC) desktop screen recorder with system audio capture. | `Python`, `PyQt6`, `FFmpeg` |
-| **Bilingual AI Subtitle Pipeline** | Offline Bengali-to-English speech recognition and dual-language subtitle generator. | `Faster-Whisper`, `NLLB-200`, `Python` |
-| **Automated Shop Bot** | Digital service & API key vending bot with real-time database sync. | `Node.js`, `Express`, `Firebase` |
-| **PDF Metadata & Sync Utility** | Batch PDF metadata modifier and OS timestamp synchronization tool. | `PyMuPDF`, `pikepdf`, `PowerShell` |
+**Languages:** `Python` `JavaScript` `Dart` `HTML/CSS` `PowerShell`
+
+**Frameworks & Tools:** `Flutter` `Node.js` `Express.js` `PyQt6` `FFmpeg`
+
+**Cloud & Infra:** `Firebase` `Docker` `Vercel` `Render` `Linux`
+
+**Bots & Automation:** `Telegram Bot API` `PyMuPDF` `pikepdf`
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **ScreenRecorderPro** | NVENC hardware-accelerated desktop recorder with system audio capture | `Python` `PyQt6` `FFmpeg` | [Repo](https://github.com/Morsalen0220/[repo-name]) |
+| **Bilingual AI Subtitle Pipeline** | Offline Bengali-to-English speech recognition with dual-language subtitles | `Faster-Whisper` `NLLB-200` `Python` | [Repo](https://github.com/Morsalen0220/[repo-name]) |
+| **Automated Shop Bot** | Digital service & API key vending bot with real-time database sync | `Node.js` `Express` `Firebase` | [Demo](https://t.me/aibuyshop_bot) |
+| **PDF Metadata & Sync Utility** | Batch PDF metadata editor with OS timestamp sync | `PyMuPDF` `pikepdf` `PowerShell` | [Repo](https://github.com/Morsalen0220/[repo-name]) |
+
+---
+
+## 🧰 Services
+
+- **Custom Web & Mobile Apps:** Business website, dashboard, Flutter app, admin panel. → [Nur Digital Agency](#contact)
+- **Document Automation:** Bulk PDF/Word/Excel processing, metadata cleanup, report generation.
+- **Telegram Bots:** Shop bots, order & payment flows, database-connected automation.
+- **Local AI Solutions:** Offline speech-to-text, subtitle generation, translation pipelines.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Morsalen0220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morsalen0220&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Morsalen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Morsalen0220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morsalen0220&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morsalen0220&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Morsalen0220&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🤝 Connect With Me
+<a id="contact"></a>
+
+## 🤝 Let's Work Together
+
+Website, bot, ba AI/automation project thakle message koro. Ami usually **[24 hour]** er moddhe reply kori.
 
 <div align="center">
   <a href="https://morsalen.pro.bd" target="_blank">
-    <img src="https://img.shields.io/badge/Website-morsalen.pro.bd-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-morsalen.pro.bd-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://t.me/aibuyshop_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Bot_%26_Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Bot_%26_Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/Morsalen0220" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Morsalen0220-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Morsalen0220-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
